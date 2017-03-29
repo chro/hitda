@@ -1,2 +1,2 @@
 # hitda
-\LaTeX-Klasse für Diplomarbeiten
+Eine \LaTeX-Klasse für Diplomarbeiten
